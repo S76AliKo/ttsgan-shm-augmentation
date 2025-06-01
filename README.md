@@ -45,9 +45,7 @@ This research addresses data scarcity in structural health monitoring (SHM) and 
 │ └── final_dataset/
 │
 └── generated_data/
-├── for_original_dataset/
-├── for_augmented_dataset/
-└── for_final_dataset/
+  └── for_final_dataset/
 
 yaml
 Copy
