@@ -4,7 +4,7 @@
 This repository contains the code and dataset for our research:
 
 📝 Structural Dynamic Response Synthesis: A Transformer-Based Time-Series GAN Approach  
-🔗 Available online in Results in Engineering  
+🔗 Available online in: Results in Engineering  
 DOI: https://doi.org/10.1016/j.rineng.2025.105549
 
 ---
