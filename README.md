@@ -74,12 +74,17 @@ Each sample contains 1024 time steps and 3 acceleration components (story1, stor
 │   └── LoadSyntheticSignals.py        # Generates synthetic responses
 │
 ├── dataset/
-│   ├── original_data/
-│   ├── augmented_data/
-│   └── final_dataset/
+│   ├── original_data/                 # Raw experimental data
+│   ├── augmented_data/                # After Data Augmentation Techniques
+│   └── final_dataset/                 # Preprocessed + resized data (e.g., scenario C)
 │
-└── generated_data/
-    └── for_final_dataset/
+├── generated_data/
+│   └── for_final_dataset/             # Training Dataset
+│
+├── README.md                         # Project overview and usage instructions
+├── requirements.txt                  # Python dependencies
+├── LICENSE.txt                       # Apache 2.0 license
+└── NOTICE                            # Info about reused code
 ```
 
 ---
