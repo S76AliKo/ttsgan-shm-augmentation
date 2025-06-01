@@ -55,7 +55,7 @@ These augmentations were validated to ensure no significant distortion in time o
 After preprocessing and augmentation, multiple datasets were created to evaluate training performance at varying data volumes. For this implementation, we used:
 
 - Scenario C: Dataset size = [1000 × 1024 × 3]  
-Each sample contains 1024 time steps and 3 acceleration components (x, y, z).
+Each sample contains 1024 time steps and 3 acceleration components (story1, story2, story3).
 
 ---
 
@@ -79,8 +79,6 @@ Each sample contains 1024 time steps and 3 acceleration components (x, y, z).
 │   └── final_dataset/
 │
 └── generated_data/
-    ├── for_original_dataset/
-    ├── for_augmented_dataset/
     └── for_final_dataset/
 ```
 
