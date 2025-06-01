@@ -1,0 +1,9 @@
+This product includes software adapted from the TTS-GAN repository by Gong et al.,
+available at https://github.com/imics-lab/tts-gan, which is licensed under the Apache License 2.0.
+
+The code in this repository is based on the original TTS-GAN project.
+Significant modifications have been made to integrate the model with structural health monitoring (SHM) applications,
+to support experimental acceleration datasets, and to enable the generation of synthetic structural response signals
+through domain-specific preprocessing and architecture customization.
+
+Copyright (c) 2025 Sayed Ali Khodaei
