@@ -87,12 +87,9 @@ Each sample contains 1024 time steps and 3 acceleration components (story1, stor
 ## ⚙️ Requirements
 
 - Python 3.8+
-- PyTorch >= 1.11
-- numpy
-- matplotlib
-- scikit-learn
+- All other dependencies are listed in requirements.txt
 
-Install dependencies using:
+Install them with:
 
 ```bash
 pip install -r requirements.txt
