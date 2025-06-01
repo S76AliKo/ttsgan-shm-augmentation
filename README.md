@@ -186,7 +186,7 @@ If you use this code or dataset in your research, please cite:
 ```bibtex
 @article{your2025tts,
   title   = {Structural Dynamic Response Synthesis: A Transformer-Based Time-Series GAN Approach},
-  author  = {Your Name and Co-authors},
+  author  = {Sayed Ali Khodaei, Maryam Bitaraf},
   journal = {Results in Engineering},
   year    = {2025},
   doi     = {10.1016/j.rineng.2025.105549}
