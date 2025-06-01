@@ -78,7 +78,7 @@ Each sample contains 1024 time steps and 3 acceleration components (story1, stor
 │   └── final_dataset/                 # Preprocessed + Data Augmentation Techniques + resized data (scenario C)
 │
 ├── generated_data/
-│   └── for_final_dataset/             # Training Dataset
+│   └── scenario_C/                   # Training Dataset
 │
 ├── README.md                         # Project overview and usage instructions
 ├── requirements.txt                  # Python dependencies
