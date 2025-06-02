@@ -34,11 +34,10 @@ The evaluation of the proposed TTS-GAN was conducted using an experimental three
 
 This system provides high-resolution dynamic response data used for model training and validation.
 
-📊 Dataset Description
-
-- original_data/: Raw structural acceleration signals obtained from the benchmark dataset by Sandia National Laboratories:
-  "Experimental Data for Structural Health Monitoring of a Three-Story Frame Structure" by James P. Lynch and Kerri L. Sundaresan (2004).
-  DOI: https://doi.org/10.2172/961604
+-Dataset Description:
+   original_data/: Raw structural acceleration signals obtained from the benchmark dataset by Sandia National Laboratories:
+   "Experimental Data for Structural Health Monitoring of a Three-Story Frame Structure" by James P. Lynch and Kerri L. Sundaresan (2004).
+   DOI: https://doi.org/10.2172/961604
 
   *Please cite this dataset if you use the original_data folder in your own research.*
 
