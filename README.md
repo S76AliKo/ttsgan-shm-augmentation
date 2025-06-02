@@ -1,8 +1,7 @@
 
-# TTS-GAN for Structural Health Monitoring Data Augmentation (ttsgan-shm-augmentation)
-
 ---
 
+# TTS-GAN for Structural Health Monitoring Data Augmentation (ttsgan-shm-augmentation)
 This repository contains the code and dataset for our research:
 
 📝 Structural Dynamic Response Synthesis: A Transformer-Based Time-Series GAN Approach  
