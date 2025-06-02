@@ -193,11 +193,16 @@ We thank the original authors for making their code publicly available.
 If you use this code or dataset in your research, please cite:
 
 ```bibtex
-@article{SAK2025tts,
-  title   = {Structural Dynamic Response Synthesis: A Transformer-Based Time-Series GAN Approach},
-  author  = {Sayed Ali Khodaei, Maryam Bitaraf},
-  journal = {Results in Engineering},
-  year    = {2025},
-  doi     = {10.1016/j.rineng.2025.105549}
+@article{KHODAEI2025105549,
+title = {Structural Dynamic Response Synthesis: A Transformer-Based Time-Series GAN Approach},
+journal = {Results in Engineering},
+pages = {105549},
+year = {2025},
+issn = {2590-1230},
+doi = {https://doi.org/10.1016/j.rineng.2025.105549},
+url = {https://www.sciencedirect.com/science/article/pii/S2590123025016196},
+author = {Sayed Ali Khodaei and Maryam Bitaraf},
+keywords = {Deep learning, Generative adversarial network (GAN), Data augmentation, Structural health monitoring (SHM), Synthetic dynamic Responses, TTS-GAN, TSGAN},
+abstract = {This study introduces a novel Transformer-based Time-Series Generative Adversarial Network (TTS-GAN) for synthesizing structural dynamic responses, addressing the critical challenge of data scarcity in structural health monitoring (SHM). Unlike existing methods, TTS-GAN generates realistic multi-channel acceleration signals directly from random noise vectors, without requiring auxiliary time- or frequency-domain inputs. The model integrates a transformer architecture with an attention mechanism to capture complex temporal dependencies and employs a composite loss function that aligns generated outputs with real signals in both time and frequency domains. Validation on a three-story aluminum structure demonstrates that TTS-GAN accurately replicates key structural features, including amplitude distribution and natural frequencies. Comparative results confirm that TTS-GAN outperforms a baseline Time-Series GAN (TSGAN), particularly in frequency-domain fidelity. The proposed approach represents a novel and efficient data augmentation framework for SHM, enabling high-quality signal generation from limited measured data.}
 }
 ```
