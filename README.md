@@ -31,13 +31,12 @@ The evaluation of the proposed TTS-GAN was conducted using an experimental three
 - Movement constrained to the x-direction  
 - Excitation via electromagnetic shaker  
 - Instrumentation: 4 accelerometers (one per floor center) and 1 force transducer at the base  
-
-This system provides high-resolution dynamic response data used for model training and validation.
-
--Dataset Description:
-   original_data/: Raw structural acceleration signals obtained from the benchmark dataset by Sandia National Laboratories:
+- Dataset Description:
+   Raw structural acceleration signals (original_data) obtained from the benchmark dataset by Sandia National Laboratories.
+   This system provides high-resolution dynamic response data used for model training and validation:
+  
    "Experimental Data for Structural Health Monitoring of a Three-Story Frame Structure" by James P. Lynch and Kerri L. Sundaresan (2004).
-   DOI: https://doi.org/10.2172/961604
+    DOI: https://doi.org/10.2172/961604
 
   *Please cite this dataset if you use the original_data folder in your own research.*
 
