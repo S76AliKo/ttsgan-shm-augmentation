@@ -33,6 +33,7 @@ The evaluation of the proposed TTS-GAN was conducted using an experimental three
 - Excitation via electromagnetic shaker  
 - Instrumentation: 4 accelerometers (one per floor center) and 1 force transducer at the base  
 - Dataset Description:
+
    This system provides high-resolution dynamic response data used for model training and validation.
    Raw structural acceleration signals (original_data) obtained from the benchmark dataset by Sandia National Laboratories:
   
