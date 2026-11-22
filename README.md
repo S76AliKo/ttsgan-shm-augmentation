@@ -21,7 +21,6 @@ To request access, please send an email with a brief description of your intende
 ---
 Access will be provided upon review of the request.
 
----
 ## 📌 Project Overview
 
 This project presents a novel Transformer-based Time-Series Generative Adversarial Network (TTS-GAN) designed to synthesize realistic structural dynamic responses. Unlike conventional GANs, the model integrates:
