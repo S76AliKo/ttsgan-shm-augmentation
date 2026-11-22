@@ -7,9 +7,19 @@ This repository contains the code and dataset for our research:
 📝 Structural Dynamic Response Synthesis: A Transformer-Based Time-Series GAN Approach  
 🔗 Available online in Results in Engineering  
 DOI: https://doi.org/10.1016/j.rineng.2025.105549
-
 ---
+Source Code and Full Project Access
 
+The complete source code and additional project files are available upon request.
+
+Researchers and interested users who wish to obtain the full implementation of this project are welcome to contact me via email.
+
+To request access, please send an email with a brief description of your intended use.
+
+📧 Email: [sayyedalikhodaei@gmail.com]
+
+Access will be provided upon review of the request.
+---
 ## 📌 Project Overview
 
 This project presents a novel Transformer-based Time-Series Generative Adversarial Network (TTS-GAN) designed to synthesize realistic structural dynamic responses. Unlike conventional GANs, the model integrates:
